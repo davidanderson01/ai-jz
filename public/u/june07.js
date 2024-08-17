@@ -60,7 +60,7 @@ const links = [
         url: 'https://ngrok-dns.june07.com/',
         title: 'Tunnel Redirect Service',
         subtitle: 'Free Static URL for ngrok, localtunnel',
-        favicon: 'https://ngrok-dns.june07.com/icon-512x512-t.png
+        favicon: 'https://ngrok-dns.june07.com/icon-512x512-t.png'
     },
     {
         url: 'https://asss.june07.com/',
